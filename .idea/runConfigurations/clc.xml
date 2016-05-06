@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="clc" type="CMakeRunConfiguration" factoryName="Application" singleton="true" PROGRAM_PARAMS="example/math.calc" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="clc" TARGET_NAME="clc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="clc" RUN_TARGET_NAME="clc">
+    <envs />
+    <method />
+  </configuration>
+</component>
